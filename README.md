@@ -1,57 +1,93 @@
-import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { motion } from "framer-motion";
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AfricaWeb3Hub - Présentation</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #007bff;
+    }
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
 
-export default function AfricaWeb3Hub() { return ( <div className="min-h-screen bg-gradient-to-br from-blue-50 to-white p-6"> <header className="text-center py-10"> <h1 className="text-4xl font-bold text-blue-700 mb-2">AfricaWeb3Hub</h1> <p className="text-lg text-gray-600 max-w-xl mx-auto"> Former, inspirer et connecter les jeunes d’Afrique francophone autour de la blockchain, du Web3, et des technologies émergentes. </p> </header>
+  <h1>🌍 AfricaWeb3Hub</h1>
+  <p><strong>Pour une Afrique francophone formée, connectée et active dans l’écosystème Web3</strong></p>
 
-<section className="grid md:grid-cols-3 gap-6 my-10">
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Objectifs</h2>
-          <p className="text-gray-700 text-sm">
-            Promouvoir l’adoption du Web3, éduquer sur la crypto, les NFT, la DeFi et former les développeurs d’applications décentralisées.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
+  <div class="section">
+    <h2>🎯 Notre Vision</h2>
+    <p>Créer une génération panafricaine de développeurs, créateurs et leaders dans le Web3, la blockchain, les NFTs et les contrats intelligents.</p>
+  </div>
 
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Partenaires Ciblés</h2>
-          <p className="text-gray-700 text-sm">
-            ETH Foundation, Solana, Avalanche, Cardano... pour construire un avenir Web3 africain avec un soutien technologique solide.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
+  <div class="section">
+    <h2>💡 Pourquoi ce projet ?</h2>
+    <ul>
+      <li>🌐 +120 millions d'habitants en RDC, une jeunesse prête à innover</li>
+      <li>❌ Plus de 10 millions de personnes à l’Est sans accès bancaire</li>
+      <li>🇨🇩 Une diaspora congolaise dynamique</li>
+      <li>🚀 Web3 = alternative technologique et financière</li>
+    </ul>
+  </div>
 
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Actions</h2>
-          <p className="text-gray-700 text-sm">
-            Ateliers, événements dans les villes francophones, chaîne WhatsApp éducative, NFT à l’africaine, et bien plus.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
-  </section>
+  <div class="section">
+    <h2>🧩 Nos Activités</h2>
+    <ul>
+      <li>🎓 Formations : Web3, blockchain, NFT, smart contracts</li>
+      <li>🧠 Pratique avec Ethereum, Solana, Aptos, Avalanche, Cardano</li>
+      <li>💬 Hackathons & conférences en Afrique francophone</li>
+      <li>🖼️ NFT pour valoriser la culture africaine</li>
+    </ul>
+  </div>
 
-  <section className="text-center mt-12">
-    <p className="text-gray-600 mb-4">Suivez-nous :</p>
-    <div className="flex justify-center space-x-4">
-      <a href="https://x.com/kingofcongo11" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">X (Twitter)</Button>
-      </a>
-      <a href="https://www.linkedin.com/in/richardkayenga" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">LinkedIn</Button>
-      </a>
-      <a href="https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">Chaîne WhatsApp</Button>
-      </a>
-    </div>
-  </section>
-</div>
+  <div class="section">
+    <h2>🎓 Objectifs 2025</h2>
+    <ul>
+      <li>👩🏽‍💻 Former 100 jeunes francophones</li>
+      <li>🛠️ Lancer une DApp locale utile</li>
+      <li>🧑🏾‍🎨 Soutenir 10 artistes Web3</li>
+      <li>🌍 Organiser 3 hackathons régionaux</li>
+    </ul>
+  </div>
 
-); }
+  <div class="section">
+    <h2>🔗 Nos liens officiels</h2>
+    <ul>
+      <li>📧 Email : <a href="mailto:africaweb3formation@gmail.com">africaweb3formation@gmail.com</a></li>
+      <li>💼 LinkedIn : <a href="https://www.linkedin.com/in/richard-kayenga-884a69b8" target="_blank">Richard Kayenga</a></li>
+      <li>🐦 Twitter (X) : <a href="https://x.com/AfricaWeb3Hub" target="_blank">@AfricaWeb3Hub</a></li>
+      <li>🌐 Site web : <em>à venir</em></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🤝 Rejoignez-nous !</h2>
+    <p>
+      AfricaWeb3Hub est ouvert à tous : développeurs, artistes numériques, formateurs, sponsors.<br>
+      Ensemble, construisons l’écosystème Web3 de demain.  
+    </p>
+    <blockquote><strong>“L’Afrique n’est pas en retard. Elle est en construction.”</strong> 🔧🌍</blockquote>
+  </div>
+
+</body>
+</html>
 
