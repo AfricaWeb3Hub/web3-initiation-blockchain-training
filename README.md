@@ -1,56 +1,52 @@
-import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { motion } from "framer-motion";
+# 📚 Web3 & Blockchain Education for Francophone Africa – Powered by Aptos
 
-export default function AfricaWeb3Hub() { return ( <div className="min-h-screen bg-gradient-to-br from-blue-50 to-white p-6"> <header className="text-center py-10"> <h1 className="text-4xl font-bold text-blue-700 mb-2">AfricaWeb3Hub</h1> <p className="text-lg text-gray-600 max-w-xl mx-auto"> Former, inspirer et connecter les jeunes d’Afrique francophone autour de la blockchain, du Web3, et des technologies émergentes. </p> </header>
+Bienvenue dans notre projet éducatif dédié à l’Afrique francophone !  
+Nous lançons une initiative unique pour enseigner la blockchain, le Web3, et l’écosystème Aptos à travers des formations en ligne, des événements universitaires, des hackathons et la création de startups locales.
 
-<section className="grid md:grid-cols-3 gap-6 my-10">
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Objectifs</h2>
-          <p className="text-gray-700 text-sm">
-            Promouvoir l’adoption du Web3, éduquer sur la crypto, les NFT, la DeFi et former les développeurs d’applications décentralisées.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
+---
 
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Partenaires Ciblés</h2>
-          <p className="text-gray-700 text-sm">
-            ETH Foundation, Solana, Avalanche, Cardano... pour construire un avenir Web3 africain avec un soutien technologique solide.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
+## 🚀 Objectif
+Éduquer, inspirer et équiper la jeunesse africaine, en particulier les francophones, pour comprendre, utiliser et construire sur Aptos, tout en créant un réseau actif de développeurs, artistes, étudiants et entrepreneurs du Web3.
 
-    <motion.div whileHover={{ scale: 1.05 }}>
-      <Card className="rounded-2xl shadow-md">
-        <CardContent className="p-6">
-          <h2 className="text-xl font-semibold text-blue-600 mb-2">Nos Actions</h2>
-          <p className="text-gray-700 text-sm">
-            Ateliers, événements dans les villes francophones, chaîne WhatsApp éducative, NFT à l’africaine, et bien plus.
-          </p>
-        </CardContent>
-      </Card>
-    </motion.div>
-  </section>
+---
 
-  <section className="text-center mt-12">
-    <p className="text-gray-600 mb-4">Suivez-nous :</p>
-    <div className="flex justify-center space-x-4">
-      <a href="https://x.com/kingofcongo11" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">X (Twitter)</Button>
-      </a>
-      <a href="https://www.linkedin.com/in/richardkayenga" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">LinkedIn</Button>
-      </a>
-      <a href="https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b" target="_blank" rel="noopener noreferrer">
-        <Button variant="outline">Chaîne WhatsApp</Button>
-      </a>
-    </div>
-  </section>
-</div>
+## 📆 Lancement Officiel
+**19 juillet 2025** : début des activités officielles au Congo (Kinshasa), avec une série de :
+- Ateliers dans les universités
+- Conférences sur Web3 et Aptos
+- Hackathons étudiants
+- Présentations de startups locales
+- Introduction aux smart contracts sur Aptos
 
-); }
+---
+
+## 🌍 Vision élargie
+
+Nous ne nous limitons pas au Congo.  
+Notre vision est de former toute l’Afrique francophone en Web3 et en technologie blockchain.  
+Nous allons :
+- Créer un hub technologique majeur à Kinshasa
+- Lancer des programmes NFT pour valoriser les artistes africains
+- Développer un système de paiement basé sur la blockchain Aptos
+- Intégrer les femmes dans toutes les activités de formation
+- Traduire nos formations en langues locales : Swahili, Lingala et Français
+
+---
+
+## 🛠 Liens utiles
+
+- 🌐 Site GitHub : [https://github.com/Prince2993/web3-initiation-blockchain-training](https://github.com/Prince2993/web3-initiation-blockchain-training)
+- 📱 WhatsApp Channel : [https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)
+- 🐦 Twitter (X) : [https://twitter.com/kingofcongo11](https://twitter.com/kingofcongo11)
+- 💼 LinkedIn : [https://www.linkedin.com/in/richard-kayenga-884a69b8](https://www.linkedin.com/in/richard-kayenga-884a69b8)
+- 📩 Email : africaweb3formation@gmail.com
+
+---
+
+## 🧠 Nous croyons que...
+
+> "L'éducation à la blockchain est une clé pour l'indépendance économique et technologique de l’Afrique."
+
+Merci à la **Aptos Foundation** pour son intérêt et son soutien à l’innovation en Afrique !
+
+---
