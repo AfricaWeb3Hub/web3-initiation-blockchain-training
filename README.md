@@ -54,4 +54,3 @@ export default function AfricaWeb3Hub() { return ( <div className="min-h-screen 
 </div>
 
 ); }
-
