@@ -33,16 +33,6 @@ Nous allons :
 
 ---
 
-## 🛠 Liens utiles
-
-- 🌐 Site GitHub : [https://github.com/AfricaWeb3Hub/web3-initiation-blockchain-training
-- 📱 WhatsApp Channel : [https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)
-- 🐦 Twitter (X) : [https://twitter.com/kingofcongo11](https://twitter.com/kingofcongo11)
-- 💼 LinkedIn : [https://www.linkedin.com/in/richard-kayenga-884a69b8](https://www.linkedin.com/in/richard-kayenga-884a69b8)
-- 📩 Email : africaweb3formation@gmail.com
-
----
-
 # 🌍 Projet Aptos pour l'Afrique Francophone
 
 ## Pourquoi ce projet Aptos en Afrique francophone ?
@@ -65,8 +55,15 @@ Nous lançons un **Hub Aptos pour l’Afrique francophone**, avec pour mission d
 - Documenter toutes les avancées en **open source** pour inspirer d'autres régions.
 ## 🧠 Nous croyons que...
 
-> "L'éducation à la blockchain est une clé pour l'indépendance économique et technologique de l’Afrique."
+> L'éducation à la blockchain est une clé pour l'indépendance économique et technologique de l’Afrique.
 
 Merci à la **Aptos Foundation** pour son intérêt et son soutien à l’innovation en Afrique !
 
 ---
+## 🛠 Liens utiles
+
+- 🌐 Site GitHub : [https://github.com/AfricaWeb3Hub/web3-initiation-blockchain-training
+- 📱 WhatsApp Channel : [https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)
+- 🐦 Twitter (X) : [https://twitter.com/kingofcongo11](https://twitter.com/kingofcongo11)
+- 💼 LinkedIn : [https://www.linkedin.com/in/richard-kayenga-884a69b8](https://www.linkedin.com/in/richard-kayenga-884a69b8)
+- 📩 Email : africaweb3formation@gmail.com
