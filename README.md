@@ -43,15 +43,15 @@ Au Congo (RDC), la situation est encore plus critique, notamment dans l’est du
 
 ---
 
-## 💡 Notre solution avec Aptos
+## 💡 Notre solution avec le web3 
 
 Nous lançons un **Hub Aptos pour l’Afrique francophone**, avec pour mission de :
 
-- Former des jeunes développeurs et innovateurs sur la blockchain Aptos, ses smart contracts et son écosystème.
-- Organiser des **ateliers et hackathons** dans des universités et incubateurs de startups à partir du **19 juillet 2025**.
+- Former des jeunes développeurs et innovateurs sur la blockchain
+- Organiser des **ateliers et hackathons** dans des universités et incubateurs de startups à partir du **10 août 2025**.
 - Offrir des sessions d’apprentissage en **langues locales (français, swahili, lingala)** pour une adoption plus rapide.
-- Créer un pont entre les talents africains et l'écosystème global Aptos.
-- Intégrer un système de **paiement décentralisé** basé sur Aptos pour les artistes, commerçants et entrepreneurs locaux.
+- Créer un pont entre les talents africains et les écosystèmes globals.
+- Intégrer un système de **paiement décentralisé** basé sur la blockchain pour les artistes, commerçants et entrepreneurs locaux.
 - Documenter toutes les avancées en **open source** pour inspirer d'autres régions.
 ## 🧠 Nous croyons que...
 
