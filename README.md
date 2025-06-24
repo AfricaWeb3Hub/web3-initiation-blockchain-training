@@ -57,7 +57,6 @@ Nous lançons un **Hub Aptos pour l’Afrique francophone**, avec pour mission d
 
 > L'éducation à la blockchain est une clé pour l'indépendance économique et technologique de l’Afrique.
 
-Merci à la **Aptos Foundation** pour son intérêt et son soutien à l’innovation en Afrique !
 
 ---
 ## 🛠 Liens utiles
