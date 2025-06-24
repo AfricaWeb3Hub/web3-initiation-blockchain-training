@@ -33,9 +33,9 @@ Nous allons :
 
 ---
 
-# 🌍 Projet Aptos pour l'Afrique Francophone
+# 🌍 Projet web3 pour l'Afrique Francophone
 
-## Pourquoi ce projet Aptos en Afrique francophone ?
+## Pourquoi ce projet web3 en Afrique francophone ?
 
 Malgré la croissance mondiale du Web3, l'Afrique francophone reste largement sous-représentée dans l’adoption de la blockchain. Le manque d’éducation, les barrières linguistiques et l’accès limité aux ressources ont freiné l’émergence de talents et de projets dans la région.
 
