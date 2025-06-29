@@ -45,7 +45,7 @@ Au Congo (RDC), la situation est encore plus critique, notamment dans l’est du
 
 ## 💡 Notre solution avec le web3 
 
-Nous lançons un **Hub Aptos pour l’Afrique francophone**, avec pour mission de :
+Nous lançons un **Hub sur la blockchain pour l’Afrique francophone**, avec pour mission de :
 
 - Former des jeunes développeurs et innovateurs sur la blockchain
 - Organiser des **ateliers et hackathons** dans des universités et incubateurs de startups à partir du **10 août 2025**.
