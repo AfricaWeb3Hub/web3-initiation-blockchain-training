@@ -11,12 +11,12 @@ Avoir le premier Hub
 ---
 
 ## 📆 Lancement Officiel
-**19 juillet 2025** : début des activités officielles au Congo (Kinshasa), avec une série de :
+**19 octobre 2025** : début des activités officielles au Congo (Kinshasa), avec une série de :
 - Ateliers dans les universités
-- Conférences sur Web3 et Aptos
+- Conférences sur Web3 et Algorand 
 - Hackathons étudiants
 - Présentations de startups locales
-- Introduction aux smart contracts sur Aptos
+- Introduction aux smart contracts sur Algorand 
 
 ---
 
@@ -51,7 +51,7 @@ Nous lançons un **Hub sur la blockchain pour l’Afrique francophone**, avec po
 - Organiser des **ateliers et hackathons** dans des universités et incubateurs de startups à partir du **10 août 2025**.
 - Offrir des sessions d’apprentissage en **langues locales (français, swahili, lingala)** pour une adoption plus rapide.
 - Créer un pont entre les talents africains et les écosystèmes globals.
-- Intégrer un système de **paiement décentralisé** basé sur la blockchain pour les artistes, commerçants et entrepreneurs locaux.
+- Intégrer un système de **paiement décentralisé** basé sur la blockchain Algorand pour les artistes, commerçants et entrepreneurs locaux.
 - Documenter toutes les avancées en **open source** pour inspirer d'autres régions.
 ## 🧠 Nous croyons que...
 
