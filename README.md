@@ -1,13 +1,13 @@
-# 📚 Web3 & Blockchain Education for Francophone Africa – Powered by Aptos
+# 📚 Web3 & Blockchain Education for Francophone Africa – Powered by Algorand 
 
 Bienvenue dans notre projet éducatif dédié à l’Afrique francophone !  
-Nous lançons une initiative unique pour enseigner la blockchain, le Web3, et l’écosystème Aptos à travers des formations en ligne, des événements universitaires, des hackathons et la création de startups locales.
+Nous lançons une initiative unique pour enseigner la blockchain, le Web3, et l’écosystème Algorand à travers des formations en ligne, des événements universitaires, des hackathons et la création de startups locales.
 
 ---
 
 ## 🚀 Objectif
-Éduquer, inspirer et équiper la jeunesse africaine, en particulier les francophones, pour comprendre, utiliser et construire sur Aptos, tout en créant un réseau actif de développeurs, artistes, étudiants et entrepreneurs du Web3.
-
+Éduquer, inspirer et équiper la jeunesse africaine, en particulier les francophones, pour comprendre, utiliser et construire sur Algorand, tout en créant un réseau actif de développeurs, artistes, étudiants et entrepreneurs du Web3.
+Avoir le premier Hub 
 ---
 
 ## 📆 Lancement Officiel
@@ -64,5 +64,4 @@ Nous lançons un **Hub sur la blockchain pour l’Afrique francophone**, avec po
 - 🌐 Site GitHub : [https://github.com/AfricaWeb3Hub/web3-initiation-blockchain-training
 - 📱 WhatsApp Channel : [https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)
 - 🐦 Twitter (X) : [https://twitter.com/kingofcongo11](https://twitter.com/kingofcongo11)
-- 💼 LinkedIn : [https://www.linkedin.com/in/richard-kayenga-884a69b8](https://www.linkedin.com/in/richard-kayenga-884a69b8)
-- 📩 Email : africaweb3formation@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/prince-kayenga-884a69b8
